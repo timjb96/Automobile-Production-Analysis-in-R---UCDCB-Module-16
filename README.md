@@ -1,4 +1,4 @@
-# Module_16_Challenge
+# Automobile Production Analysis in R - Module 16 Challenge
 For this module, we used production data regarding a prototype vehicle, the MechaCar, from AutosRUs, to analyze issues with the prototypes, and investigate what improvements need to be made. 
 
 ## Linear Regression to Predict MPG
