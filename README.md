@@ -2,7 +2,9 @@
 For this module, we used production data regarding a prototype vehicle, the MechaCar, from AutosRUs, to analyze issues with the prototypes, and investigate what improvements need to be made. 
 
 The data was in the below formats:
+
 ![Screen Shot 2023-10-01 at 10 48 30 AM](https://github.com/timjb96/Automobile-Production-Analysis-in-R---UCDCB-Module-16/assets/112847821/294b30c1-5346-40c7-9525-a28935b54a6a)
+
 This is the 'MechCar' dataset
 
 ![Screen Shot 2023-10-01 at 10 49 08 AM](https://github.com/timjb96/Automobile-Production-Analysis-in-R---UCDCB-Module-16/assets/112847821/7f5ec619-9388-4385-8a81-e2d0f68181dd)
